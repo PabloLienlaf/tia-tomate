@@ -1,0 +1,156 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  color: #FFF;
+  font-weight: 200;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  color: #FFF;
+  font-weight: 700;
+  font-size: 70px;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.nav__container {
+  background-color: #FFF;
+  padding: 1em 5em;
+}
+.nav__container-logo {
+  max-width: 300px;
+}
+
+.header {
+  background-color: #E56353;
+}
+.header__container {
+  width: 800px;
+  padding: 9% 0;
+  display: block;
+  margin: auto;
+}
+.header__title {
+  text-align: center;
+}
+.header__title-emphasis {
+  font-weight: 700;
+}
+
+.sectionOrganic {
+  color: #FFF;
+}
+.sectionOrganic__container {
+  padding: 3em 20%;
+  background-color: #91918D;
+}
+.sectionOrganic__container-doblecontainer {
+  flex-direction: column;
+  align-items: center;
+  padding: 0 10%;
+}
+.sectionOrganic__title-large {
+  text-align: center;
+}
+
+.sectionLocation {
+  color: #686963;
+}
+.sectionLocation__container {
+  padding: 3em 20%;
+  background-color: #FAFAFA;
+}
+.sectionLocation__container-doblecontainer {
+  flex-direction: column;
+  align-items: center;
+  padding: 0 10%;
+}
+.sectionLocation__title-large {
+  text-align: center;
+}
+
+.sectionTeam__heading {
+  background-color: #E56353;
+  padding: 3em 20%;
+  text-align: center;
+}
+.sectionTeam__container {
+  padding: 3em 20%;
+  color: #686963;
+  background-color: #FAFAFA;
+}
+.sectionTeam__image {
+  max-width: 70%;
+  display: block;
+  margin: auto;
+}
+.sectionTeam__title-center {
+  text-align: center;
+}
+
+.contact {
+  background-color: #E56353;
+  text-align: center;
+  padding: 1.5em 0 3em 0;
+}
+.contact__title {
+  color: #FFF;
+}
+
+.footer {
+  background-color: #686963;
+  text-align: center;
+  padding: 4em 0;
+}
+.footer__logo {
+  max-width: 200px;
+}
+
+.contact__button-big {
+  padding: 0.7rem 3em;
+  border-radius: 50px;
+  border-color: #686963;
+  border-width: 1px;
+  border-style: solid;
+  color: #686963;
+  background-color: #FFF;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=main.css.map */

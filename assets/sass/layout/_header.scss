@@ -1,0 +1,15 @@
+.header {
+  background-color: $jelly-bean;
+  &__container {
+    width: 800px;
+    padding: 9% 0;
+    display:block;
+    margin: auto;
+  }
+  &__title {
+    text-align: center;
+    &-emphasis{
+      font-weight: $bold;
+    }
+  }
+}

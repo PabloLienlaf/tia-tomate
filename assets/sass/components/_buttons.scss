@@ -1,0 +1,14 @@
+.contact__button {
+  &-big {
+    padding: 0.7rem 3em;
+    border-radius: 50px;
+    border-color: $granite-gray;
+    border-width: 1px;
+    border-style: solid;
+    color: $granite-gray;
+    background-color: $white;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: 30px;
+  }
+}

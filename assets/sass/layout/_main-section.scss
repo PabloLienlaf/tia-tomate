@@ -1,0 +1,52 @@
+.sectionOrganic{
+  color: $white;
+  &__container {
+    padding: 3em 20%;
+    background-color: $taupe-gray;
+    &-doblecontainer {
+      flex-direction: column;
+      align-items: center;
+      padding: 0 10%;
+    }
+  }
+  &__title-large {
+    text-align: center;
+  }
+}
+
+.sectionLocation {
+  color: $granite-gray;
+  &__container {
+    padding: 3em 20%;
+    background-color: $snow;
+    &-doblecontainer {
+      flex-direction: column;
+      align-items: center;
+      padding: 0 10%;
+    }
+  }
+  &__title-large {
+    text-align: center;
+  }
+}
+
+.sectionTeam {
+  &__heading {
+    background-color: $jelly-bean;
+    padding: 3em 20%;
+    text-align: center;
+  }
+  &__container {
+    padding: 3em 20%;
+    color: $granite-gray;
+    background-color: $snow;
+  }
+  &__image {
+    max-width: 70%;
+    display:block;
+    margin: auto;
+  }
+  &__title-center {
+    text-align: center;
+  }
+}
